@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carlos Rodríguez",
+    "codigo": "USR001",
+    "correo": "carlos.rodriguez@empresa.com",
+    "cargo": "Desarrollador Senior"
+  }
+]
